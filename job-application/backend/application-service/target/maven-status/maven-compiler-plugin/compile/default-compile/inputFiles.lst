@@ -1,0 +1,12 @@
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/client/NotificationClientFallback.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/client/JobClientFallback.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/service/ApplicationService.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/ApplicationServiceApplication.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/entity/Application.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/repository/ApplicationRepository.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/dto/ApplicationRequest.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/controller/ApplicationController.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/client/JobClient.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/dto/NotificationRequest.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/client/NotificationClient.java
+/home/sdv/Antigravity/job-application/backend/application-service/src/main/java/com/jobportal/applicationservice/dto/ApplicationResponse.java

@@ -1,0 +1,7 @@
+/home/sdv/Antigravity/job-application/backend/notification-service/src/main/java/com/jobportal/notificationservice/service/NotificationService.java
+/home/sdv/Antigravity/job-application/backend/notification-service/src/main/java/com/jobportal/notificationservice/controller/NotificationController.java
+/home/sdv/Antigravity/job-application/backend/notification-service/src/main/java/com/jobportal/notificationservice/dto/NotificationRequest.java
+/home/sdv/Antigravity/job-application/backend/notification-service/src/main/java/com/jobportal/notificationservice/NotificationServiceApplication.java
+/home/sdv/Antigravity/job-application/backend/notification-service/src/main/java/com/jobportal/notificationservice/repository/NotificationRepository.java
+/home/sdv/Antigravity/job-application/backend/notification-service/src/main/java/com/jobportal/notificationservice/entity/Notification.java
+/home/sdv/Antigravity/job-application/backend/notification-service/src/main/java/com/jobportal/notificationservice/dto/NotificationResponse.java

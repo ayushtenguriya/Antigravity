@@ -1,0 +1,9 @@
+com/jobportal/jobservice/entity/Job.class
+com/jobportal/jobservice/repository/JobRepository.class
+com/jobportal/jobservice/controller/JobController.class
+com/jobportal/jobservice/entity/Job$JobType.class
+com/jobportal/jobservice/entity/Job$JobStatus.class
+com/jobportal/jobservice/JobServiceApplication.class
+com/jobportal/jobservice/dto/JobRequest.class
+com/jobportal/jobservice/dto/JobResponse.class
+com/jobportal/jobservice/service/JobService.class

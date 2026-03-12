@@ -1,0 +1,12 @@
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/entity/User.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/UserServiceApplication.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/service/UserService.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/security/JwtUtil.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/security/CustomUserDetailsService.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/dto/LoginRequest.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/dto/AuthResponse.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/dto/RegisterRequest.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/repository/UserRepository.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/config/SecurityConfig.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/dto/UserResponse.java
+/home/sdv/Antigravity/job-application/backend/user-service/src/main/java/com/jobportal/userservice/controller/UserController.java

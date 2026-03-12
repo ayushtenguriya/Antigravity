@@ -1,0 +1,8 @@
+com/jobportal/notificationservice/dto/NotificationRequest.class
+com/jobportal/notificationservice/repository/NotificationRepository.class
+com/jobportal/notificationservice/controller/NotificationController.class
+com/jobportal/notificationservice/entity/Notification.class
+com/jobportal/notificationservice/service/NotificationService.class
+com/jobportal/notificationservice/dto/NotificationResponse.class
+com/jobportal/notificationservice/entity/Notification$NotificationType.class
+com/jobportal/notificationservice/NotificationServiceApplication.class

@@ -1,0 +1,7 @@
+/home/sdv/Antigravity/job-application/backend/job-service/src/main/java/com/jobportal/jobservice/entity/Job.java
+/home/sdv/Antigravity/job-application/backend/job-service/src/main/java/com/jobportal/jobservice/JobServiceApplication.java
+/home/sdv/Antigravity/job-application/backend/job-service/src/main/java/com/jobportal/jobservice/repository/JobRepository.java
+/home/sdv/Antigravity/job-application/backend/job-service/src/main/java/com/jobportal/jobservice/controller/JobController.java
+/home/sdv/Antigravity/job-application/backend/job-service/src/main/java/com/jobportal/jobservice/service/JobService.java
+/home/sdv/Antigravity/job-application/backend/job-service/src/main/java/com/jobportal/jobservice/dto/JobResponse.java
+/home/sdv/Antigravity/job-application/backend/job-service/src/main/java/com/jobportal/jobservice/dto/JobRequest.java

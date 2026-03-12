@@ -1,0 +1,18 @@
+package com.jobportal.applicationservice.dto;
+
+import jakarta.validation.constraints.NotNull;
+import lombok.Data;
+
+@Data
+public class ApplicationRequest {
+
+    @NotNull(message = "Job ID is required")
+    private Long jobId;
+
+    @NotNull(message = "Seeker ID is required")
+    private Long seekerId;
+
+    private String coverLetter;
+
+    private String resumeUrl;
+}

@@ -1,0 +1,13 @@
+com/jobportal/applicationservice/repository/ApplicationRepository.class
+com/jobportal/applicationservice/controller/ApplicationController.class
+com/jobportal/applicationservice/entity/Application$ApplicationStatus.class
+com/jobportal/applicationservice/client/NotificationClient.class
+com/jobportal/applicationservice/client/JobClient.class
+com/jobportal/applicationservice/client/NotificationClientFallback.class
+com/jobportal/applicationservice/dto/ApplicationRequest.class
+com/jobportal/applicationservice/entity/Application.class
+com/jobportal/applicationservice/ApplicationServiceApplication.class
+com/jobportal/applicationservice/service/ApplicationService.class
+com/jobportal/applicationservice/dto/NotificationRequest.class
+com/jobportal/applicationservice/client/JobClientFallback.class
+com/jobportal/applicationservice/dto/ApplicationResponse.class
